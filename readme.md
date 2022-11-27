@@ -8,7 +8,7 @@
 - Double check all wire connections when full implementation is finished.
 ### ModelSim
 - Never freeze while forcing, always deposite the value
-- At first set the clear to 0 for 1ms and run. Then set it to 100ms and reset the runtime to 100ms
+- At first set the clear to 0 for 1ms and run. Then set it to 1 and reset the runtime to 100ms
 - If you have any varible you that doesn't have a default value you must deposite 0 in them while you are setting 0 to clear (while you are doing the previous point) 
 # 1. Adder Subtractor 
 ### Half adder formula

@@ -150,7 +150,7 @@ endmodule
 
 # 6. Sync Counter
 ### Some Theories
-- You don't need any circuit diagram here.
+- You have to put the smallest value in cycle for the next state of a invalid state.
 - The process is stated below.
     - First, you have to draw the curcuit diagram using JK exitation table
     - Draw the Kmap
